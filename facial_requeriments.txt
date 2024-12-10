@@ -1,0 +1,8 @@
+facial
+python - 3.9.11
+
+pip install cmake (precisa esta na path)
+
+Etapa 1: Baixe e execute o Build Tools for Visual Studio 2022 https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019
+
+Etapa 2: vá para Componentes Individuais e selecione Ferramentas C++ CMake para Windows e execute a instalação.
